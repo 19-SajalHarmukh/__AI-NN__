@@ -1,2 +1,3 @@
-Artificial Intelligence & Neural Networks
-This repository will contain projects and assignments related to 7th semester course on AI &amp; NN.
+#Artificial Intelligence & Neural Network
+
+This repository will contain projects and assignments related to 7<sup>th</sup> semester course on AI &amp; NN.
